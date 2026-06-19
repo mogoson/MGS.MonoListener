@@ -1,0 +1,35 @@
+{
+    "name": "com.mgs.monolistener",
+    "version": "1.0.0",
+    "displayName": "Mono Listener",
+    "description": "Listener for Unity MonoBehaviour.",
+    "unity": "2021.3",
+    "keywords": [
+        "Listener",
+        "Pointer",
+        "MRTK",
+        "XRI"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample for listener of pointer and mouse.",
+            "path": "Samples~/Sample"
+        },
+       {
+            "displayName": "XRI",
+            "description": "Sample for listener base on XRI.",
+            "path": "Samples~/XRI"
+        },
+       {
+            "displayName": "MRTK",
+            "description": "Sample for listener base on MRTK.",
+            "path": "Samples~/MRTK"
+        }
+    ]
+}
