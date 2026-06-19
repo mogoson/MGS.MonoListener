@@ -1,0 +1,17 @@
+{
+    "name": "MGS.MonoListener.MRTK",
+    "rootNamespace": "MGS.MonoListener.MRTK",
+    "references": [
+        "GUID:85e0f6c63ded6994e9a5583ce1ddef77",
+        "GUID:a7a4c34601384f9389d5c4207f3c6331"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
