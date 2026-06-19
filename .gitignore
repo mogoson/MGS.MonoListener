@@ -105,3 +105,9 @@ InitTestScene*.unity*
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 /*.vsconfig
+/Assets/MRTK
+/Assets/XRI
+/Assets/MixedRealityToolkit.Generated
+/Assets/MRTK.meta
+/Assets/MixedRealityToolkit.Generated.meta
+/Assets/XRI.meta
